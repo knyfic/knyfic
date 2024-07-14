@@ -4,4 +4,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knyfic&show_icons=true&theme=rose_pine&locale=en&layout=compact" alt="knyfic" /></p>
 
-beginner on ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+beginner on:<p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
